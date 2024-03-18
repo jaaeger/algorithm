@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="17.03.2024 утро">
+    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="17.03.2024 вечер">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/49.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710673718268</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="17.03.2024 вечер">
+      <option name="closed" value="true" />
+      <created>1710700729511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710700729511</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -96,6 +103,7 @@
     <MESSAGE value="12.03.2024" />
     <MESSAGE value="16.03.2024" />
     <MESSAGE value="17.03.2024 утро" />
-    <option name="LAST_COMMIT_MESSAGE" value="17.03.2024 утро" />
+    <MESSAGE value="17.03.2024 вечер" />
+    <option name="LAST_COMMIT_MESSAGE" value="17.03.2024 вечер" />
   </component>
 </project>
