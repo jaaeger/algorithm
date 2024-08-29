@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="08.08.2024">
+    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="27.08.2024 later">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/167.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/167.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723117286251</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="27.08.2024">
+      <option name="closed" value="true" />
+      <created>1724782698004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724782698004</updated>
+    </task>
+    <task id="LOCAL-00011" summary="27.08.2024 later">
+      <option name="closed" value="true" />
+      <created>1724782712534</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724782712534</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,6 +238,8 @@
     <MESSAGE value="19.03.2024 вечер" />
     <MESSAGE value="13.04.2024" />
     <MESSAGE value="08.08.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="08.08.2024" />
+    <MESSAGE value="27.08.2024" />
+    <MESSAGE value="27.08.2024 later" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.08.2024 later" />
   </component>
 </project>
