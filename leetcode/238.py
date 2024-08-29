@@ -1,3 +1,5 @@
+# Перемножить все числа в массиве, кроме выбранного элемента
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         res = [1] * len(nums)

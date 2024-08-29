@@ -1,3 +1,5 @@
+# Поиск элемента, который встречается больше половины раз
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         cache = {}

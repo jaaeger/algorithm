@@ -1,3 +1,5 @@
+# Похоже на 33
+
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         left = 0

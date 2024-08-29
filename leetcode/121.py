@@ -1,3 +1,5 @@
+# Stonks
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         res = 0

@@ -1,3 +1,5 @@
+# Контейнер с жидкостью через two pointers
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         result = 0
