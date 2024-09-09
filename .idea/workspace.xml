@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="29.08.2024">
+    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="03.09.2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/3. 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/125.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/14. 125.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/128.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/9. 128.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/16. 15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/150.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/11. 150.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/155.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/12. 155.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/167.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/15. 167.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/20.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/10. 20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/217.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/1. 217.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/22.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/13. 22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/238.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/6. 238.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/242.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/2. 242.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/271.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/8. 271.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/347.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/5. 347.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/36.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/7. 36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/49.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/4. 49.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/739.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/17. 739.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/1.1. 150.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/1.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724942962450</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="03.09.2024">
+      <option name="closed" value="true" />
+      <created>1725366361254</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725366361254</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,6 +299,7 @@
     <MESSAGE value="27.08.2024 later" />
     <MESSAGE value="28.08.2024 and 29.08.2024" />
     <MESSAGE value="29.08.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.08.2024" />
+    <MESSAGE value="03.09.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="03.09.2024" />
   </component>
 </project>
