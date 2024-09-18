@@ -2,7 +2,7 @@ class Solution:
     def encode(self, strings):
         delimeter = "|"
         string = ""
-        for word in string:
+        for word in strings:
             string += "{count}{delimeter}{word}".format(
                 count=len(word), delimeter=delimeter, word=word
             )
