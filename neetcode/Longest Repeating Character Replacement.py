@@ -1,3 +1,5 @@
+# Sliding window
+
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         res = 0

@@ -1,3 +1,5 @@
+# Hash Set (One Pass)
+
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         cols = defaultdict(set)

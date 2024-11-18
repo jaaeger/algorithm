@@ -1,3 +1,5 @@
+# Hash Set
+
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         res = 0

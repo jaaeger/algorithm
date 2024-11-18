@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="07.11.2024">
+    <list default="true" id="ee2a58e1-221c-4f6d-a2fc-34ff9bff1c84" name="Changes" comment="18.11.2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Anagram Groups.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Anagram Groups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Best Time to Buy and Sell Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Container With Most Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Container With Most Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Longest Consecutive Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Longest Consecutive Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Longest Repeating Character Replacement.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Longest Repeating Character Replacement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Longest Substring Without Repeating Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Permutation in String.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Permutation in String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Three Integer Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Three Integer Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Top K Elements in List.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Top K Elements in List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Trapping Rain Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Trapping Rain Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Two Integer Sum II.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Two Integer Sum II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neetcode/Valid Sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode/Valid Sudoku.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +373,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730990534369</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="18.11.2024">
+      <option name="closed" value="true" />
+      <created>1731925084398</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1731925084398</updated>
+    </task>
+    <task id="LOCAL-00024" summary="18.11.2024">
+      <option name="closed" value="true" />
+      <created>1731925096214</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1731925096214</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -386,6 +414,7 @@
     <MESSAGE value="19.09.2024" />
     <MESSAGE value="10.10.2024" />
     <MESSAGE value="07.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="07.11.2024" />
+    <MESSAGE value="18.11.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.11.2024" />
   </component>
 </project>

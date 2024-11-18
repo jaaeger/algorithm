@@ -1,3 +1,5 @@
+# Dynamic Programming
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         maxP = 0
